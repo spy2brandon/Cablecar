@@ -1,0 +1,33 @@
+start position
+lines - the U, the line, the bent line
+lines = []
+if letter == 'a':
+	lines = ['u','l','l','u']
+	start = 0  
+if letter == 'b':
+	lines = ['bl','l','l','u'] 
+if letter == 'c':
+	lines = [] 
+if letter == 'd':
+	lines = [] 
+if letter == 'e':
+	lines = [] 
+if letter == 'f':
+	lines = [] 
+if letter == 'g':
+	lines = [] 
+if letter == 'h':
+	lines = [] 
+if letter == 'i':
+	lines = []
+if letter == 'j':
+	lines = []  
+num = [0,1,2,3,4,5,6,7]
+while len(num) > 0:
+	for i in range(len(num)):
+		if i == start:
+			
+
+
+
+	
